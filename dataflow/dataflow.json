@@ -30,9 +30,6 @@
 				}
 			],
 			"scriptLines": [
-				"parameters{",
-				"     snowflaketabletemp as string",
-				"}",
 				"source(output(",
 				"          ORDERNUMBER as short,",
 				"          QUANTITYORDERED as short,",
