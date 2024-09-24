@@ -1,0 +1,9 @@
+{
+	"name": "datafactorynewdemogds",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86a673c2-c91e-47c6-86d9-173fae6459f1",
+		"tenantId": "e09a7479-5460-46ba-86e5-f1234d4eced6"
+	}
+}
